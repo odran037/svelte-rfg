@@ -1,5 +1,10 @@
 <footer>
-	<h6>Built with Svelte. Just for fun.</h6>
+	<h6>
+    Built by <a target="_blank" href="https://leonardoprates.github.io">me</a>,
+    with <a target="_blank" href="http://svelte.dev">Svelte</a> and
+    deployed with <a target="_blank" href="https://surge.sh">Surge</a>.
+    Just for fun.
+  </h6>
 </footer>
 
 <style>

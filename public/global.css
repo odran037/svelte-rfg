@@ -88,12 +88,23 @@ button:hover {
 
 ul {
   list-style-type: none;
+	max-height: 300px;
+	overflow: auto;	
 }
 
 li {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	padding: 10px;
+}
+
+li:nth-child(odd) {
+	background: #fff4f4;
+}
+
+li:hover {
+	background: #fcf0f0;
 }
 
 li > p {

@@ -67,7 +67,7 @@
   {#if showHideFavorites}
     <ul>
       {#if $favoritesList.length > 0}
-        {#each $favoritesList as fav}
+        {#each $favoritesList.reverse() as fav}
           <li>
             <p>{fav}</p>
             <span
