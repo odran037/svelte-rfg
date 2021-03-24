@@ -1,3 +1,9 @@
+Deployed to [https://svelte-rfg.surge.sh](https://svelte-rfg.surge.sh)
+But crushed by CORS.
+
+
+---
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
