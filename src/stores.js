@@ -30,7 +30,7 @@ function createfavoritesList() {
 
   const loadFavorites = () => {
     let favsList = JSON.parse(localStorage.getItem('myFavoriteFacts'));
-
+    
     set(favsList || []);
   }
 
